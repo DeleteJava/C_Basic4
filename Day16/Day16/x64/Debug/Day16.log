@@ -1,0 +1,7 @@
+﻿  수업복습.c
+D:\C언어 저장소\Day16\Day16\수업복습.c(8,10): warning C4477: 'scanf_s' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+D:\C언어 저장소\Day16\Day16\수업복습.c(8,10): warning C4477: 'scanf_s' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+D:\C언어 저장소\Day16\Day16\수업복습.c(8,10): warning C4477: 'scanf_s' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+D:\C언어 저장소\Day16\Day16\수업복습.c(8,10): warning C4477: 'scanf_s' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'double'입니다.
+D:\C언어 저장소\Day16\Day16\수업복습.c(8,10): warning C4477: 'scanf_s' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'double'입니다.
+  Day16.vcxproj -> D:\C언어 저장소\Day16\x64\Debug\Day16.exe
